@@ -1,7 +1,8 @@
 avr-z80-busmon
 ==============
 
-A Z80 bus monitor and display based on an AVR microcontroller.
+A Z80 bus monitor and display based on an AVR microcontroller. 
+Software and hardware design is open source, and uses the MIT license.
 
 When building Z80 retro systems, it is often desirable to single step
 the processor while observing the state of the data bus, address bus,
